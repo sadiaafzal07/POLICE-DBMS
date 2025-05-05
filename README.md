@@ -1,4 +1,4 @@
-# PLICE-DBMS
+# POLICE-DBMS
 police-database-management-system
 
 
